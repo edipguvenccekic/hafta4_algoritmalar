@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "hafta4_algoritmalar", "hafta4_algoritmalar\hafta4_algoritmalar.pyproj", "{D39FDCDB-2E73-445C-980F-240C866D027C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D39FDCDB-2E73-445C-980F-240C866D027C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39FDCDB-2E73-445C-980F-240C866D027C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3428BC3-ECF7-43BB-867E-731EDA3A7F0C}
+	EndGlobalSection
+EndGlobal
